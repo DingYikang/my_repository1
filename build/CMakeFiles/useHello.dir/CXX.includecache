@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yikang/cppSpace/libHelloWorld.h
+
+/home/yikang/cppSpace/useHello.cpp
+libHelloWorld.h
+/home/yikang/cppSpace/libHelloWorld.h
+

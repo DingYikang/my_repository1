@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yikang/cppSpace/slam/ch4/useSophus.cpp
+iostream
+-
+cmath
+-
+Eigen/Core
+-
+Eigen/Geometry
+-
+sophus/se3.h
+/home/yikang/cppSpace/slam/ch4/sophus/se3.h
+

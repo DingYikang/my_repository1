@@ -1,0 +1,6 @@
+/home/yikang/cppSpace/build/CMakeFiles/edit_cache.dir
+/home/yikang/cppSpace/build/CMakeFiles/rebuild_cache.dir
+/home/yikang/cppSpace/build/CMakeFiles/Helloworld.dir
+/home/yikang/cppSpace/build/CMakeFiles/hello.dir
+/home/yikang/cppSpace/build/CMakeFiles/hello_shared.dir
+/home/yikang/cppSpace/build/CMakeFiles/useHello.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/useHello.dir/useHello.cpp.o  -o useHello -rdynamic libhello.a 
