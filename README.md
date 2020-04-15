@@ -1,2 +1,2 @@
 # yikang_repository1
-My first public repository.
+This repository is all about SLAM/ VIO/ VO.
