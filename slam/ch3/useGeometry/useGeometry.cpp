@@ -11,7 +11,7 @@ using namespace Eigen;
 int main(int argc, char ** argv)
 {
     //3d旋转矩阵可以直接使用Matrix3d或者Matrix3f
-    Matrix3d rotation_matrix = Matrix3d :: Identity();
+    Matrix3d rotation_matrix = Matrix3d :: Identity();  // 初始化为单位阵
 
     //旋转向量使用AngleAxis，运算可以当做矩阵
     AngleAxisd rotation_vector(M_PI / 4, Vector3d(0,0,1));     //眼Z轴旋转45°
