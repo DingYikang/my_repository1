@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/**",
+                "/usr/local/include/g2o/solvers/csparse",
+                "/home/yikang/g2o",
+                "/home/yikang/g2o/cmake_modules"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
